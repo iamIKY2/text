@@ -27,8 +27,7 @@
 	}
 
 	ol, ul {
-		list-style: none;
-	}
+		list-style: none;	}
 
 	blockquote, q {
 		quotes: none;
@@ -695,7 +694,7 @@
 		}
 
 	ul {
-		list-style: disc;
+		list-style-type: none;
 		margin: 0 0 2rem 0;
 		padding-left: 1em;
 	}
@@ -965,7 +964,7 @@
 		letter-spacing: 0.2rem;
 		line-height: 2.75rem;
 		outline: 0;
-		padding: 0 1.25rem 0 1.35rem;
+		padding: 2px 30px;
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
